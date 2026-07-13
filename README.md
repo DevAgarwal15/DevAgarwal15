@@ -13,7 +13,17 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevAgarwal15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevAgarwal15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevAgarwal15&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=DevAgarwal15&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevAgarwal15&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAgarwal15&layout=compact&theme=tokyonight)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Your+Name;AI/ML+Enthusiast;Full+Stack+Developer)
+![Skills](https://skillicons.dev/icons?i=python,java,react,nodejs,mongodb,docker,git)
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 ---
 
