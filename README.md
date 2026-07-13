@@ -1,49 +1,17 @@
-<div align="center">
+## Hi there 👋
+# 💫 About Me:
+# Hi there, I'm Dev Agarwal 👋<br><br>I'm a B.Tech Computer Science student passionate about building AI-powered applications and full-stack web projects. I enjoy solving real-world problems through code and continuously learning new technologies.<br><br>### 🚀 What I'm Currently Working On<br><br>* 🤖 AI & Machine Learning projects<br>* 🌐 Full-Stack Web Development<br>* 🐍 Python-based applications<br>* 📊 Data Structures & Algorithms (C++)<br><br>### 💻 Tech Stack<br><br>* **Languages:** Python, C++, Java, JavaScript<br>* **Frontend:** HTML, CSS, JavaScript<br>* **Backend:** Python, Django, Django REST Framework<br>* **Tools:** Git, GitHub, VS Code, Postman, Figma<br>* **Currently Exploring:** Generative AI, LLMs, API Integration, Prompt Engineering<br><br>### 🎯 Goals<br><br>* Build impactful AI applications<br>* Contribute to open-source projects<br>* Secure a Software Development/AI internship<br>* Continuously improve my problem-solving and development skills<br><br>### 📫 Connect With Me<br><br>Feel free to explore my repositories, share feedback, or collaborate on interesting projects!<br>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dev__15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/know-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devagarwal8795354455@gmail.com) 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=DevAgarwal15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=DevAgarwal15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevAgarwal15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Dynamic Animated Typing Header -->
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Dev+Agarwal;AI/ML+Enthusiast;Full+Stack+Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Dev+Agarwal;AI/ML+Enthusiast;Full+Stack+Developer)" alt="Typing SVG" />
-
-<p align="center">
-  A B.Tech Computer Science student passionate about building AI-powered applications and full-stack web projects. I enjoy solving real-world problems through code and continuously learning new technologies.
-</p>
-
-<!-- Social Badges Section -->
-<p align="center">
-  <a href="[https://linkedin.com/in/know-dev](https://linkedin.com/in/know-dev)" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
-  </a>
-  <a href="[https://instagram.com/_dev__15](https://instagram.com/_dev__15)" target="_blank">
-    <img src="[https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)" alt="Instagram" />
-  </a>
-  <a href="mailto:devagarwal8795354455@gmail.com">
-    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
-  </a>
-</p>
-
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DevAgarwal15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-## 🖥️ System Terminal Status
-
-```yml
-SYSTEM: DevAgarwal15
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Subject:       Dev Agarwal
-Role:          B.Tech CSE Student | AI/ML & Full-Stack Developer
-Current Focus: Building impactful AI applications & Open-Source
-Location:      Uttar Pradesh, India
-Toolchain:     VS Code, Git, GitHub, Postman, Figma, Anaconda
-
-[Core Languages]
-  - Python, C++, Java, JavaScript, C
-[Frontend Stack]
-  - HTML5, CSS3, JavaScript, React
-[Backend & DB]
-  - Django, Django REST Framework, Node.js, FastAPI, Express.js
-  - SQLite, MySQL, MongoDB
-[Data & AI]
-  - OpenCV, NumPy, Pandas, Matplotlib, Plotly, Scikit-Learn
-  - Generative AI, LLMs, Prompt Engineering
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+[![](https://komarev.com/ghpvc/?username=DevAgarwal15&icon=0&color=0)]
